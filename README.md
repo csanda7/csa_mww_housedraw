@@ -29,6 +29,6 @@ source ~/ros2_ws/install/setup.bash
 </details>
 
 ``` r
-ros2 launch csa_mww_housedraw launch_example1.launch.py
+ros2 launch csa_mww_housedraw housedraw.launch.py
 ```
 
